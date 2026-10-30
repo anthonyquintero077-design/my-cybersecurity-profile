@@ -49,6 +49,6 @@ Currently completing hands-on cybersecurity labs at UTSA involving Linux, comman
 I plan to continue expanding my knowledge through certifications, personal projects, internships, and hands-on cybersecurity experience.
 ## 🔗 Links
 [GitHub](https://github.com/anthonyquintero077-design)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+
 
 “The impediment to action advances action. What stands in the way becomes the way.” — Marcus Aurelius
